@@ -1,6 +1,6 @@
 ### Hello Friends 👋
 
-I'm a java developer also interested in python.
+Web application developing....
 
 📃[Go to my blog site](https://blog.pressed.top)
 
