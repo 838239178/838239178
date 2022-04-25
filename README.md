@@ -4,7 +4,7 @@ Web application developing....
 
 📃[Go to my blog site](https://blog.pressed.top)
 
-📧838239178@qq.com | a838239178@gmail.com
+📧nnocreater@hotmail.com
 
 #### My Stats
 
