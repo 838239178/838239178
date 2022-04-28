@@ -1,6 +1,6 @@
 ### Hello Friends 👋
 
-Web application developing....
+Java、Go、Python、Vue
 
 📃[Go to my blog site](https://blog.pressed.top)
 
