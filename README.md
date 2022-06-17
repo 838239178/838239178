@@ -1,6 +1,6 @@
 ### Hello Friends 👋
 
-Java、Go、Python、Vue
+Java、Go、Python、Javascript
 
 📃[Go to my blog site](https://blog.pressed.top)
 
