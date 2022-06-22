@@ -2,6 +2,8 @@
 
 Java、Go、Python、Javascript
 
+[My contribution of seata/seata](https://github.com/seata/seata/pull/3949)
+
 📃[Go to my blog site](https://blog.pressed.top)
 
 📧nnocreater@hotmail.com
