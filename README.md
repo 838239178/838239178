@@ -6,7 +6,7 @@ Java、Go、Python、Javascript
 
 📃[Go to my blog site](https://blog.pressed.top)
 
-📧nnocreater@hotmail.com
+📧a838239178@gmail.com
 
 #### My Stats
 
