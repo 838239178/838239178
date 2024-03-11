@@ -1,5 +1,7 @@
 ### Hello Friends 👋
 
+赞助我👉👉[爱发电主页](https://afdian.net/a/animacx)
+
 Java、Go、Python、Javascript
 
 My contribution: [seata/seata](https://github.com/seata/seata/pull/3949) [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv/pull/107)
