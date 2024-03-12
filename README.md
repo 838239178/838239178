@@ -2,15 +2,13 @@
 
 赞助我👉👉[爱发电主页](https://afdian.net/a/animacx)
 
-Java、Go、Python、Javascript
+My contribution: 
 
-My contribution: [seata/seata](https://github.com/seata/seata/pull/3949) [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv/pull/107)
+[seata/seata](https://github.com/seata/seata/pull/3949) 
 
-[aria2-integration-safari](https://github.com/baptistecdr/aria2-integration-safari/pull/17)
+[ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv/pull/107)
 
-📃[Go to my blog site](https://blog.pressed.top)
-
-📧a838239178@gmail.com
+[baptistecdr/aria2-integration-safari](https://github.com/baptistecdr/aria2-integration-safari/pull/17)
 
 #### My Stats
 
