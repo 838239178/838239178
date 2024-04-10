@@ -1,7 +1,5 @@
 ### Hello Friends 👋
 
-赞助我👉👉[爱发电主页](https://afdian.net/a/animacx)
-
 My contribution: 
 
 [seata/seata](https://github.com/seata/seata/pull/3949) 
